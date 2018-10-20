@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="cache-control" content="max-age=0" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="0" />
+  <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+  <meta http-equiv="pragma" content="no-cache" />
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="StyleSheet" href="Style.css">
+  <title>CodeX</title>
+</head>
+
+<body>
+  <h1>Test Answers</h1>
+    <div id="Yur">
+        <p>1) D</p>
+        <p>2) B</p>
+        <p>3) C</p>
+        <p>4) D</p>
+        <p>5) B</p>
+        <p>6) C</p>
+        <p>7) C</p>
+        <p>8) B?</p>
+        <p>9) C</p>
+        <p>10)D</p>
+        <p>11)C</p>
+        <p>12)A</p>
+        <p>13)C</p>
+        <p>14)C</p>
+        <p>15)D</p>
+        <p>16)C</p>
+        <p>17)A</p>
+        <p>18)C</p>
+        <p>19)C</p>
+        <p>20)D</p>
+        <p>21)B</p>
+        <p>22)D</p>
+        <p>23)C</p>
+        <p>24)D</p>
+        <p>25)B</p>
+        <p>26)D</p>
+        <p>27)C</p>
+        <hr>
+        <p id="Prompt">Prompt: The establishment of slavery in the Chesapeake Bay region became well entrenched by the 1700s.</p> 
+        <p>A. Choose one of the following and explain why your choice represents the event that most significantly impacted this establishment.</p>
+        <div class="Eggs">
+        <p id="cd">*Bacons Rebellion.</p>
+        <p id="cd">*The development of the slave trade of Americas.</p>
+        <p id="cd">*The development of tobacco</p>
+        </div>
+        <p></p>
+        <p>B. Contrast your choice against ONE of the other options, demonstrating why that option is not as significant as your choice.</p>
+        <p></p>
+        <hr>
+        <p id="Prompt">Prompt: Events throughout the 1700s caused a tense relationship between the colonist and England.</p>
+        <p></p>
+        <p>A. Choose one of the following and explaing why your choice represents the event that most significantly impacted this relationship.
+            <div class="Eggs">
+                <p id="cd">*Mercantilism and Navigation Acts</p>
+                <p id="cd">*Enlightenment</p>
+                <p id="cd">*King Phillip's War</p>
+            </div>
+        <p>B. Contrast your choice against ONE of the other options, demonstrating why that option is not as significant as your choice.</p>
+        </p>
+    </div>
+</body>
+</html>
